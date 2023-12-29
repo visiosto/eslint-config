@@ -37,6 +37,9 @@
     "prettier-plugin-packagejson": "^2.4.8"
   },
   "peerDependencies": {
-    "eslint": ">=8.0.0"
+    "eslint": ">=8.0.0",
+    "eslint-plugin-astro": ">=0.31.0",
+    "eslint-plugin-jsx-a11y": ">=6.5.0",
+    "eslint-plugin-react": ">=7.27.0"
   }
 }
