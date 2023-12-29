@@ -1,0 +1,26 @@
+{
+  "name": "@visiosto/eslint-config",
+  "version": "0.1.0-dev",
+  "description": "The Visiosto ESLint configuration",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:test": "prettier --check .",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visiosto/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Visiosto oy <visiosto@visiosto.fi> (https://www.visiosto.fi)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/visiosto/eslint-config/issues"
+  },
+  "homepage": "https://github.com/visiosto/eslint-config#readme"
+}
