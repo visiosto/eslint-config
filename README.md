@@ -1,5 +1,7 @@
 # Visiosto ESLint Configuration
 
+[![Main workflow](https://github.com/visiosto/eslint-config/actions/workflows/main.yml/badge.svg)](https://github.com/visiosto/eslint-config/actions/workflows/main.yml)
+
 These are the ESLint configurations for Visiosto projects.
 
 ## Installation
