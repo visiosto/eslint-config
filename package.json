@@ -1,6 +1,6 @@
 {
   "name": "@visiosto/eslint-config",
-  "version": "0.1.0-dev",
+  "version": "0.1.0",
   "description": "The Visiosto ESLint configuration",
   "keywords": [
     "eslint",
